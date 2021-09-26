@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+ } 
+
+header {
+    margin-bottom: 10px;
+    background-color: black;
+    height: 10vh;
+    width: 98vw;
+    color: white;
+    font-family: 'Otomanopee One', sans-serif;
+    position: sticky;
+    top: 0;
+    text-align: center;
+}
+
+body {
+    background-image: url(silverbg.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: 'Tinos', serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.class1 {
+    border: 2px solid black;
+    width: 158px;
+    height: 210px;
+}
+
+th {
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black;
+}
+
+p {
+    height: 15vh;
+    width: 205vh;
+    text-align: center;
+    font-size: 23px;
+}
+
+.class2 {
+    height: 30vh;
+    width: 205vh;
+    text-align: center;
+    font-size: 23px;
+}
+
+.class3 {
+    height: 25vh;
+    width: 205vh;
+    text-align: center;
+    font-size: 23px;
+}
+
+table {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.class4 {
+    height: 35vh;
+    width: 205vh;
+    text-align: center;
+    font-size: 23px;
+}
+
+.class5 {
+    margin-top: 10px;
+    background-color: black;
+    height: 10vh;
+    width: 98vw;
+    color: white;
+    font-family: 'Otomanopee One', sans-serif;
+    position:sticky;
+    bottom: 0;
+    text-align: center;
+}
+
+h3 {
+    color:crimson;
+}
+
+.class5 a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
